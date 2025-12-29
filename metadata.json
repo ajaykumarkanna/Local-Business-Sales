@@ -1,0 +1,7 @@
+{
+  "name": "LocalBiz Outreach",
+  "description": "Discover nearby businesses using Google Maps AI and generate personalized sales pitches.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
